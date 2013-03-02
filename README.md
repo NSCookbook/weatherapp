@@ -40,4 +40,4 @@ $ open Weather.xcworkspace
 | Recipe Article | Revision Tag | 
 | ------------ 	| ------------- |
 | [Recipe 15: Building A Weather Application](http://nscookbook.com/2013/02/ios-programming-recipe-15-building-a-weather-application/) | recipe-15  |
-<!--| Content Cell | Content Cell  |-->
+
