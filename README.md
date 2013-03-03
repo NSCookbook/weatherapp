@@ -41,3 +41,6 @@ $ open Weather.xcworkspace
 | ------------ 	| ------------- |
 | [Recipe 15: Building A Weather Application](http://nscookbook.com/2013/02/ios-programming-recipe-15-building-a-weather-application/) | recipe-15  |
 
+###License
+
+NSCookbook's weather app is available under the MIT license. See the LICENSE file for more info.
