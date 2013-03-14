@@ -1,14 +1,17 @@
 
-PODS: 
-- AFNetworking (1.1.0)
-- SVProgressHUD (0.8.1)
-
 DEPENDENCIES: 
 - AFNetworking (~> 1.1)
+- GHUnitIOS (~> 0.5.6)
 - SVProgressHUD (~> 0.8.1)
 
-COCOAPODS: 0.16.0
-
 SPEC CHECKSUMS: 
+  GHUnitIOS: bf149b2c44084eee2785ce4ac3675c3a699e509d
   SVProgressHUD: 592da548680cd3613923b5f98113add52ad30cc2
   AFNetworking: 761a418233d280c1e0580bcb76ff9cb4c3073d17
+
+COCOAPODS: 0.16.4
+
+PODS: 
+- AFNetworking (1.1.0)
+- GHUnitIOS (0.5.6)
+- SVProgressHUD (0.8.1)
