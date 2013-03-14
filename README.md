@@ -40,7 +40,7 @@ $ open Weather.xcworkspace
 | Recipe Article | Revision Tag | 
 | ------------ 	| ------------- |
 | [Recipe 15: Building A Weather Application](http://nscookbook.com/2013/02/ios-programming-recipe-15-building-a-weather-application/) | recipe-15  |
-
+| [Recipe 18: Unit Testing With GHUnit & CocoaPods](http://nscookbook.com/2013/03/recipe-18-unit-testing-with-ghunit-cocoapods/‎) | recipe-18  |
 ###License
 
 NSCookbook's weather app is available under the MIT license. See the LICENSE file for more info.
