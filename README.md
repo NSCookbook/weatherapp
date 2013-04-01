@@ -3,6 +3,8 @@ NSCookbook Weather Application
 
 NSCookbook's demo weather application
 
+![](http://nscookbook.com/wp-content/uploads/2013/02/recipe15-8.png)
+
 ###Getting Started
 
 Weather uses [CocoaPods](http://cocoapods.org) for dependency management. You must install CocoaPods before running the app.
